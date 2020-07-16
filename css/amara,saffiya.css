@@ -45,12 +45,11 @@ margin: 0 auto;
 main img{ max-width: 100%; }
 
 ol{font-size: 25px;
+	font-family: 'Oswald';
 }
 
 footer p{ background-image: linear-gradient(to bottom right, mediumaquamarine, lightseagreen, teal);
 	 text-align: center;
 	padding-top: 50px ;
 	padding-bottom: 50px;
-
-
 }
